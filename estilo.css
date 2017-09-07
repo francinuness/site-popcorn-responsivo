@@ -1,0 +1,74 @@
+body{
+	background: linear-gradient(0deg,#d4d4d4,#351a1f);
+}
+
+.logo{
+	color: white;
+}
+
+.navbar-cor{
+	border:none;
+}
+
+ul .nav-cor{
+	color: red;
+}
+
+.banner{
+	margin-top: 50px;
+}
+
+.cinema{
+	margin: 0 auto;
+}
+
+.back{
+	background: #222;
+}
+
+.poster{
+	padding: 5px 20px 5px 0px;
+}
+
+h4{
+	padding-left: 5px;
+	color: #d4d4d4;
+	margin: 0;
+}
+
+#principal{
+	background: #222;
+	margin:
+}
+
+#estreia{
+	padding-top: 15px;
+}
+
+#series{
+	padding-bottom: 15px;
+}
+
+#mais{
+	float: right;
+	clear: both;
+	padding-right: 145px;
+}
+
+a, a:hover, a:visited{
+	color: #d4d4d4;
+}
+
+#rodape{
+	background: #222;
+	color: #d4d4d4;
+	padding: 40px 0 5px;
+}
+
+.text{
+	text-align: right;	
+}
+
+
+
+
